@@ -6,7 +6,7 @@ This portfolio showcases my background, technical skills, projects, education, a
 
 ## 🌐 Live Portfolio
 
-[Visit My Portfolio](YOUR_RENDER_LIVE_LINK)
+[Visit My Portfolio](https://my-portfolio-w2ni.onrender.com)
 
 ## 👨‍💻 About Me
 
