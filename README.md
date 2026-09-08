@@ -30,6 +30,20 @@ I'm continuously learning and building projects to strengthen my development and
 - Contact
 - Resume
 
+## 📄 Resume
+
+You can view my resume here:
+
+[View My Resume](https://github.com/vishalbharti585/my_resume/blob/main/23BCS12032_VISHAL_BHARTI.pdf)
+
+## 🚀 Deployment
+
+This portfolio is deployed using **Render**.
+
+## 📬 Contact
+
+If you'd like to connect with me, you can find my contact and social links on my portfolio website.
+
 ## 📂 Project Structure
 
 ```text
